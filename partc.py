@@ -37,7 +37,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.integrate import solve_ivp
 
-# Ensure a and b are defined in case this cell is run independently
+# Ensure a and b are defined
 a = 1.0
 b = 1.6
 
